@@ -32,7 +32,7 @@ export default function () {
               <img
                 src="/logo.png"
                 className="w-39 h-20"
-                alt="Suno Music"
+                alt="Sky Music AI"
               />
             </a>
 
