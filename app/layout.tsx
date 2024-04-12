@@ -8,9 +8,9 @@ import { Toaster } from "sonner";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Suno Music Generator",
+  title: "Sky Music AI Generator",
   description: "Harness the power of suno.ai's music generation AI by leveraging its API to create captivating melodies.",
-  keywords: "Suno, Suno AI, Music Generator, Suno Music Generator",
+  keywords: "Suno, Suno AI, Music Generator, Sky Music AI Generator",
   creator: "Alvin-Liu",
 };
 

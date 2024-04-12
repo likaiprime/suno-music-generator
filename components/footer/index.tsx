@@ -34,7 +34,7 @@ const Footer = () => {
         <div className="-mx-4 flex flex-wrap">
           <div className="w-full px-4 sm:w-2/3 lg:w-3/12">
             <div className="mb-10 w-full">
-              <p className="mb-10">Suno Music Generator</p>
+              <p className="mb-10">Sky Music AI Generator</p>
 
               <p className="font-inter text-base font-light text-gray-500">
                 Generate captivating music with AI, empowered by suno.ai's cutting-edge technology. 
@@ -64,7 +64,7 @@ const Footer = () => {
                 <Social />
               </div>
               <p className="font-inter text-base font-light text-gray-500">
-                &copy; 2024 Suno Music Generator. All Rights Reserved.
+                &copy; 2024 Sky Music AI Generator. All Rights Reserved.
               </p>
             </div>
           </div>

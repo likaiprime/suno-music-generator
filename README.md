@@ -1,8 +1,8 @@
 <p align="center">
-  <img alt="Suno Music Generator" src="https://github.com/Alvin-Liu/suno-music-generator/blob/master/public/logo.png" width="200" style="margin-bottom: 10px;">
+  <img alt="Sky Music AI Generator" src="https://github.com/Alvin-Liu/suno-music-generator/blob/master/public/logo.png" width="200" style="margin-bottom: 10px;">
 </p>
 
-# Suno Music Generator
+# Sky Music AI Generator
 
 [English](./README_EN.md) | [简体中文](./README.md)
 

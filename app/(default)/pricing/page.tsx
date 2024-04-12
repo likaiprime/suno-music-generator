@@ -45,7 +45,7 @@ export default function () {
     <div className="relative isolate bg-white px-6 py-8">
       <div className="mx-auto max-w-3xl text-center lg:max-w-4xl">
         <h1 className="mt-2 text-3xl font-bold tracking-tight text-gray-900 sm:text-6xl">
-          Suno Music Generator Pricing
+          Sky Music AI Generator Pricing
         </h1>
       </div>
       <h2 className="mx-auto mt-6 max-w-2xl text-center text-lg leading-8 text-gray-600">
