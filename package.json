@@ -1,9 +1,9 @@
 {
-  "name": "suno-music-generator",
+  "name": "sky-music-ai-generator",
   "description": "Generate captivating music with AI, empowered by suno.ai's cutting-edge technology.",
   "author": {
-    "name": "Alvin-Liu",
-    "url": "https://github.com/Alvin-liu/suno-music-generator"
+    "name": "likai",
+    "url": "https://skymusicai.com"
   },
   "version": "0.1.0",
   "private": true,
